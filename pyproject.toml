@@ -1,0 +1,8 @@
+[project]
+name = "social-media-activity-calendar-analyzer"
+version = "0.1.0"
+description = "Analyze social media posting activity calendars from CSV"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

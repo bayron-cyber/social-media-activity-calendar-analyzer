@@ -1,0 +1,12 @@
+date,time,platform,format,likes,comments,shares,reach
+2026-01-01,08:30,twitter,image,10,2,1,100
+2026-01-01,12:10,instagram,video,5,1,0,50
+2026-01-01,18:05,facebook,carousel,7,0,2,60
+2026-01-02,09:00,twitter,image,3,0,0,20
+2026-01-02,17:30,twitter,video,8,1,1,80
+2026-01-03,11:15,instagram,image,4,0,0,40
+2026-01-03,20:45,facebook,video,9,2,0,90
+2026-01-05,08:00,twitter,image,12,1,1,120
+2026-01-05,15:30,instagram,video,6,0,2,70
+2026-01-05,15:45,instagram,video,6,0,2,70
+2026-01-06,10:20,facebook,carousel,2,0,0,25

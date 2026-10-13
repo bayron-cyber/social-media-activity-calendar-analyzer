@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Unit test / coverage
+.pytest_cache/
+.coverage
+coverage.xml
+
+# Build / dist
+build/
+dist/
+*.egg-info/
+
+# Local outputs (keep output/ in repo if you want artifacts)
+# output/
+
+# OS files
+.DS_Store
+Thumbs.db
